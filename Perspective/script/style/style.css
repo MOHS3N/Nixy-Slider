@@ -18,8 +18,9 @@ div.bord{
 	height:600px;
 	background-color:#0CF;
 	margin:90px auto 0px auto;
-	-webkit-transition:all 500ms;
-	-moz-transition:all 500ms;	
+	-webkit-transition:all 1s;
+	-moz-transition:all 1s;
+	opacity:0.4;	
 }
 /*div.bord:hover{
 
