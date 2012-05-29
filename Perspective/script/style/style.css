@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+div.cont{
+	position:absolute;
+	top:0;
+	bottom:0;
+	left:0;
+	right:0;
+	margin:auto;
+	width:800px;
+	height:800px;
+	outline:1px solid #09F;
+	-webkit-perspective:900;
+	-moz-perspective:900;
+}
+div.bord{
+	width:600px;
+	height:600px;
+	background-color:#0CF;
+	margin:90px auto 0px auto;
+	-webkit-transition:all 500ms;
+	-moz-transition:all 500ms;	
+}
+/*div.bord:hover{
+
+	-webkit-transform: rotateX(-10deg) rotateY(20deg);
+}*/
+	
+
